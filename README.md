@@ -1,6 +1,6 @@
 # namer_app
 
-A new Flutter project.
+Flutter project for pairing two words together. 
 
 ## Getting Started
 
